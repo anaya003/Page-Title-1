@@ -1,0 +1,25 @@
+body {
+    background:#FFFAC3;
+    text-align:center;
+}
+
+img {
+    width: 300px;
+    display:none;
+    border-radius: 50%;
+}
+
+.p1 {
+    display:none;
+}
+
+.p3 {
+    display:none;
+}
+
+.p2 {
+    display:none;
+}
+.p4 {
+    display:none;
+}
